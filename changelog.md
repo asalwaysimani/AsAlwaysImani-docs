@@ -1,0 +1,58 @@
+---
+title: Changelog
+breaks: false
+author: Imani
+date: 2022-09-11
+---
+## [Version 4] - 2022-01-11
+
+- Built out project using ccodesandbox.io.
+
+### Changes
+
+- Renamed Prose-Projects -> MnemosyneAshwell
+- Pulled files from MnemosyneAshwell folder into main directory
+- created src directory and contents
+- created docs directory
+  - moved MargaretCatterDevelopment into directory
+  - moved MnemosyneAshwell into directory
+
+## [Version 3] - 2022-11-09
+
+### Additions
+
+npm i gatsby@latest
+gatsby new {your-project-name} {link-to-starter}
+
+Created a new folder and file structure to sort and categorize pages.
+.
+├── AsAlwaysImani
+│   ├── Prose-Projects
+│   │   └── The-Galaxy-is-Limitless
+│   └── Nonfiction-Projects
+└── MargaretCatterDevelopment
+    ├── Tabletop-Roleplaying-Games
+    │   ├── High Metropolys
+    │   └── NeoCitiesChronicles
+    └── Visual-Novels
+
+### Changes
+
+Updated the [Contacts](contact.md)
+Minor changes to the [Sources](sources.md) adding intended sections headers.
+
+### Devlog Notes
+
+Renamed and revised "Projects---Progress-List" to "Projects Compendium"
+
+### Open Task
+
+Figure out which meta tags work and add them onto [index](index.md)
+    Google analytics id  
+        GA: ---
+    Line breaks
+        breaks: false
+    Prevent search engine indexing
+        robot: noindex
+
+
