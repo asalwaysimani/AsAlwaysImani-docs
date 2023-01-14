@@ -6,8 +6,8 @@ author: Imani
 Create FAQ post in `_faqs` folder (categories are optional):
 ```yml
 ---
-title: Do you provide customer support?
-categories: [presale]
+title: Games That Influnce My Work
+categories: [games]
 ---
 ```
 

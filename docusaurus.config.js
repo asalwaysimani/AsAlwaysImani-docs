@@ -12,19 +12,19 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/asalwaysimani_wordmark_icon_v1.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "As Always Imani", // Usually your GitHub org/user name.
+  projectName: "As Always Imani Docs", // Usually your repo name.
 
   // Even if you don't use internationalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"]
+    locales: ["en"],
   },
 
   presets: [
@@ -36,46 +36,44 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css")
-        }
-      })
-    ]
+          customCss: require.resolve("./src/css/custom.css"),
+        },
+      }),
+    ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "As Always Imani",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg"
+          alt: "As Always Imani Logo",
+          src: "img/logo.svg",
         },
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial"
+            label: "Intro",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right"
-          }
-        ]
+            href: "https://cohost.org/asalwaysimani/",
+            label: "cohost",
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: "dark",
@@ -84,49 +82,53 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro"
-              }
-            ]
+                label: "Intro",
+                to: "/docs/intro",
+              },
+            ],
           },
           {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus"
+                label: "Links",
+                to: "/docs/contact",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus"
+                label: "Twitch",
+                href: "https://www.twitch.tv/asalwaysimani",
+              },
+              {
+                label: "Ko-fi",
+                href: "https://ko-fi.com/asalwaysimani",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus"
-              }
-            ]
+                href: "https://twitter.com/asalwaysimani",
+              },
+            ],
           },
           {
-            title: "More",
+            title: "Margaret Catter Development",
             items: [
               {
-                label: "Blog",
-                to: "/blog"
+                label: "Projects",
+                to: "src/pages/projects/MargaretCatterDevelopment",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus"
-              }
-            ]
-          }
+                label: "Itch.io",
+                href: "https://margaretcatter.itch.io/",
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme
-      }
-    })
+        darkTheme: darkCodeTheme,
+      },
+    }),
 };
 
 module.exports = config;
