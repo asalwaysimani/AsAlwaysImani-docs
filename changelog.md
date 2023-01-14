@@ -2,11 +2,19 @@
 title: Changelog
 breaks: false
 author: Imani
-date: 2022-09-11
 ---
-## [Version 4] - 2022-01-11
+## [Version 5] - 2023-01-14
 
-- Built out project using ccodesandbox.io.
+- renamed docs to projects and moved them into the pages folder
+- recreated a currently empty docs folder
+- uploaded v4 to github
+  - asalwaysimani-docs
+  - imported github repo into codesandbox.io for quasi local site testing. 
+  > Still unable to name npm/nvm work. Have not tested on laptop. 
+
+## [Version 4] - 2023-01-11
+
+- Built out project using codesandbox.io.
 
 ### Changes
 
