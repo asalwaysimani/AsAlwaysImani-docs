@@ -2,7 +2,6 @@
 title: Chasing The Beginning of Happyness
 author: Imani
 date: 20YY-MM-DD
-keywords:
 description: A transmedia storytelling project centered around a mockumentary about a band that split due to various life things but got back together to do a 10-year anniversary tour for their debut album. It takes place over the course of 25 shows that are packed into the 31 days of December. 
 ---
 

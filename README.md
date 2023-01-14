@@ -2,7 +2,6 @@
 title: README
 author: Imani
 date: 2022-09-11
-keywords:
 description: Projects & Progress List
 ---
 

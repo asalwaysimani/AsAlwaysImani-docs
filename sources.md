@@ -1,7 +1,5 @@
 ---
 title: Cite Your Sources
-subtitle:
-tags: 
 author: Imani
 date: 2022-09-11
 ---
