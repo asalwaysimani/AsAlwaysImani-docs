@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../docusaurus-sandbox-01"
 		}
 	],
 	"settings": {}
