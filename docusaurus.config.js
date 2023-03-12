@@ -131,4 +131,18 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  url: 'https://asalwaysimani.com', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
+  // ...
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        theme: {
+          customCss: [require.resolve('./src/css/custom.css')],
+        },
+      },
+    ],
+  ],
+};
