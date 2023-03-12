@@ -132,6 +132,8 @@ const config = {
 };
 
 module.exports = {
+  url: 'gilded-gnome-c6fbaa.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
   // ...
   presets: [
     [
