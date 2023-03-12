@@ -1,5 +1,5 @@
 ---
-title: index
+title: Index
 author: Imani
 date: 2022-11-14
 description: Projects & Progress List
