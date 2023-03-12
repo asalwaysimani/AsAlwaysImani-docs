@@ -4,6 +4,17 @@ breaks: false
 author: Imani
 date: 2022-09-11
 ---
+## [Version 4] - 2022-03-12
+
+### Changes
+
+- Removed the "Edit this page" text from all pages
+- Added links to around the web in intro.md
+- Changed button text in index.js
+- Created SVG files for imgs
+    - Moved default docusurus imgs into folder
+- Changed colorway
+
 ## [Version 4] - 2022-01-11
 
 - Built out project using ccodesandbox.io.

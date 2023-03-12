@@ -1,0 +1,41 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="4474px" height="1000px">
+<defs>
+<filter filterUnits="userSpaceOnUse" id="Filter_0" x="1437px" y="406px" width="1793px" height="443px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="10" />
+    <feGaussianBlur result="blurOut" stdDeviation="2.236" />
+    <feFlood flood-color="rgb(160, 160, 160)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="1"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+<filter filterUnits="userSpaceOnUse" id="Filter_1" x="1047px" y="25px" width="2507px" height="347px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="10" />
+    <feGaussianBlur result="blurOut" stdDeviation="2.236" />
+    <feFlood flood-color="rgb(160, 160, 160)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="1"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+</defs>
+<rect  x="9148" y="2000" width="4474" height="1000" fill="white" fill-opacity="0.0" />
+<g filter="url(#Filter_0)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 52.7861206332634, 0, 0, 52.7737849640041,1442.68289633906, 484.893706663517)" font-size="1.895px"> <tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">doing&#32;all&#32;the&#32;things&#32;all&#32;over&#32;the&#32;internet</tspan> </tspan><tspan x="0" dy="1.2em"><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan> </tspan>
+</text>
+<text kerning="auto" font-family="Myriad Pro" stroke-width="2px" stroke="rgb(0, 0, 0)" fill-opacity="0" stroke-opacity="1" transform="matrix( 52.7861206332634, 0, 0, 52.7737849640041,1442.68289633906, 484.893706663517)" font-size="1.895px"> <tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">doing&#32;all&#32;the&#32;things&#32;all&#32;over&#32;the&#32;internet</tspan> </tspan><tspan x="0" dy="1.2em"><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan><tspan font-size="1.895px" font-family="Marydale" fill="#9497E1">game&#32;&#57365;evelopment&#32;&#38;&#32;&#57365;esign&#32;project&#57446;</tspan><tspan x="0" dy="1.2em">original&#32;works&#32;of&#32;fiction</tspan><tspan x="0" dy="1.2em">&#57344;nd&#32;then&#32;some</tspan> </tspan>
+</text>
+</g>
+<g filter="url(#Filter_1)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 0.84803301346201, 0.00126873498285, -0.00126365409781, 0.85144277429831,1051.72655604191, 25.2923341169737)" font-size="411.067px"><tspan font-size="411.067px" font-family="Clone Rounded PE" font-weight="bold" fill="#FFFFFF">As&#32;Always&#32;Imani</tspan></text>
+<text kerning="auto" font-family="Myriad Pro" stroke-width="2px" stroke="rgb(0, 0, 0)" fill-opacity="0" stroke-opacity="1" transform="matrix( 0.84803301346201, 0.00126873498285, -0.00126365409781, 0.85144277429831,1051.72655604191, 25.2923341169737)" font-size="411.067px"><tspan font-size="411.067px" font-family="Clone Rounded PE" font-weight="bold" fill="#FFFFFF">As&#32;Always&#32;Imani</tspan></text>
+</g>
+</svg>

@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/asalwaysimani_wordmark_icon_v1.png",
+  favicon: "img/asalwaysimani_wordmark.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -36,13 +36,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
+          // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
+         // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -58,7 +58,7 @@ const config = {
         title: "As Always Imani",
         logo: {
           alt: "As Always Imani Logo",
-          src: "img/logo.svg",
+          src: "img/asalwaysimani_wordmark.svg",
         },
         items: [
           {
@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

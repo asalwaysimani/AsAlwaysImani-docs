@@ -1,5 +1,5 @@
 ---
-title: Frequently asked questions section
+title: Frequently Asked Questions
 author: Imani
 ---
 
