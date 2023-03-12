@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'As Always Imani',
+<<<<<<< HEAD
     Svg: require('@site/static/img/asalwaysimani_wordmark.svg').default,
     description: (
       <>
@@ -38,6 +39,15 @@ const FeatureList = [
       </>
     ),
   },
+=======
+    Svg: require('static\img\asalwaysimani_wordmark.svg').default,
+    description: (
+      <>
+        Imani can be found doing all the things all over the internet, such as game development & design projects, multidisciplinary creative writing works, live lets plays of solo tabletop board games, and then some. They are in a long-term emotional relationship with Pop Punk. You can find them live streaming on twitch and then archived on youtube.
+      </>
+    ),
+  }
+>>>>>>> 72ade4d680e26953a97074748f59f7e9dd11743b
 ];
 
 function Feature({Svg, title, description}) {
