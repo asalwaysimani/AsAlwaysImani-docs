@@ -1,6 +1,5 @@
 ---
 title: Changelog
-breaks: false
 author: Imani
 date: 2022-09-11
 ---
@@ -12,6 +11,8 @@ date: 2022-09-11
 - Added title field to docusaurus.config.js under module.exports
 - Updated the i18n configuration object to the docusaurus.config.js
 - Removed email from contact.md
+- Fixed line breaks on contact.md page
+- Removed duplicate markdown files outside of the docs folder
 
 ## [Version 5] - 2022-03-12
 
