@@ -10,6 +10,8 @@ date: 2022-09-11
 
 - Removed "section" from "frequently asked questions" title
 - Added title field to docusaurus.config.js under module.exports
+- Updated the i18n configuration object to the docusaurus.config.js
+- Removed email from contact.md
 
 ## [Version 5] - 2022-03-12
 
