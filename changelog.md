@@ -4,7 +4,14 @@ breaks: false
 author: Imani
 date: 2022-09-11
 ---
-## [Version 4] - 2022-03-12
+## [Version 6] - 2022-03-16
+
+### Changes
+
+- Removed "section" from "frequently asked questions" title
+- Added title field to docusaurus.config.js under module.exports
+
+## [Version 5] - 2022-03-12
 
 ### Changes
 
