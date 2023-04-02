@@ -142,7 +142,7 @@ const config = {
 };
 
 module.exports = {
-  title: '...',
+  title: 'As Always Imani',
   url: 'https://asalwaysimani.com', // Url to your site with no trailing slash
   baseUrl: '/', // Base directory of your site relative to your repo
   // ...
