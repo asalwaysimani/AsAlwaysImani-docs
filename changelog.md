@@ -3,6 +3,41 @@ title: Changelog
 author: Imani
 date: 2022-09-11
 ---
+
+## [Version 7] - 2022-04-02
+
+### Changes
+- Corrected the title in the docusaurus.config.js (title: 'As Always Imani' from '...')
+
+- Updated the following pages with the below listed sections
+    - Pages
+        MargaretCatterDevelopment
+            Tabletop Roleplay Games
+                High Metropolys
+                    Ascent of Crystal Tower
+                    Burn Out The Sun
+                    The Red Lich Queen of Hedgeline
+                    The Those Broken & Beloved Thing
+                NeoCitiesChronicles
+                    MagicalGirlsAndMecha
+                    MagicalGirlMechaRising -> MagicalGirlsMechaRising
+                    NeoCitiesTTRPG
+                Hot off the Press
+                    > Renamed file to remove underscorer
+            Visual Novels
+                Hurricane Like Me
+                Look Ma We Made It
+    - Sections
+        About the Game
+        Where to Buy 
+        Genre
+        Status
+        Updated
+- Created the following new pages
+    - MargaretCatterDevelopment
+            High Metropolys
+                High Metropoly.md
+
 ## [Version 6] - 2022-03-16
 
 ### Changes

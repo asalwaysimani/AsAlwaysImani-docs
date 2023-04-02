@@ -1,0 +1,33 @@
+---
+title: Hot off the Press
+author: Imani
+date: 2023-04-02
+category: TTRPG
+---
+
+## About The Game
+
+In Hot off the Press you are budding reporters covering your schools most breaking news. Puzzle your way through the various happenings in your school from the mundane and everyday to the curious oddities of the school and sensational goings on that have to be seen to be believed. Gather the facts and build your story. Wow your Editors with your writing skill, but beware the dreaded red ink of corrections and changes. Can you make enough time to hang out with your friends, sneak a couple of kisses with your crush in and don’t get caught breaking the rules or you might become the story, all before your impending deadline.  
+
+Who exactly is in charge of the shop class?  
+
+Did Jimmy who blew up the fair last year really enter again?  
+
+What's Floating In the Pool, and since when have we had a pool?  
+
+Play as a group of student journalists as they try to put out the best stories about their school and its happenings that they can. Can you gather enough of the facts to put together the story? Will your Editor-In-Chief love your story or will you have to make some major tweaks? Can you make enough time to hang out with your friends, sneak a couple of kisses with your crush in and don’t get caught breaking the rules of your school all before your stories deadline?
+
+A tabletop role-playing game for a GM and 3 to 5 players. 
+
+### Where to Buy  
+[Hot off the Press on Itch.io](https://margaretcatter.itch.io/hot-off-the-press)
+
+### Genre 
+Mystery & Drama
+
+### Status
+Published - In Revisions
+
+### Updated
+
+v2.1 - Aug 28 2020
