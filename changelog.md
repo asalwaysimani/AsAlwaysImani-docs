@@ -3,6 +3,27 @@ title: Changelog
 author: Imani
 date: 2022-09-11
 ---
+## [Version 8] - 2022-04-09
+
+## Changes
+
+- Added numbers to file names to manually reorder sidebar.
+- Created ProjectMiaHamm.md
+- Updated PitchesPlease
+    - Untitled Social Media with Soulmates
+
+- src/pages/index.js
+    Changed website title as displayed
+    Changed website description as displayed
+
+- src/components/HomepageFeatures/index.js
+    Updated "She Be Spittin Thou" description
+
+- docusaurus.config.js
+    Changed "Blog" to "On CoHost" in theme.
+
+- 93_SheBeSpittinThou
+    Created She Be Spittin Though folder
 
 ## [Version 7] - 2022-04-02
 

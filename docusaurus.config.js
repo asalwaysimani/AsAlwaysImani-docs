@@ -77,7 +77,7 @@ const config = {
             position: "left",
             label: "Intro",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "on CoHost", position: "left" },
           {
             href: "https://cohost.org/asalwaysimani/",
             label: "cohost",

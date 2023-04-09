@@ -1,0 +1,12 @@
+---
+title: Pitches Please
+author: Imani
+date: 2022-11-14
+description: Because I have too many goddamn ideas. Basically short google keep sized ideas that filter through my brain but I dont have the time to flesh out at the current  
+---
+
+Title: Untitled Social Media with Soulmates
+Platonic Social media/soulmate
+Logline: Soulmates are a choice you have to make. You can have a destined person but if both sides aren't in the same place nothing will come of it. You might feel the spark but the flame won't burn. 
+Covers from middle school to College MC1 has a locked Twitter used for bitching and a public one for blogging. MC2 keeps a LiveJournal/blog. Their alternating pov of their baby friendship via MC2 keeping a paper journal. MC1 therapist is making him keep a journal because anger management. The transition and determination of their friendship in middle school and the switch to digital for both of them. 
+

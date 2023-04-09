@@ -34,7 +34,7 @@ const FeatureList = [
     Svg: require('@site/static/img/SheBeSpittinThou_v00.svg').default,
     description: (
       <>
-       Because we're bringing back personal blogs.
+       Things that need to be said and we're bringing back personal blogs to say them.
       </>
     ),
   },
