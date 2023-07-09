@@ -1,20 +1,22 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import './fonts/Marydale/MarydaleRegular.ttf';
+import './fonts/Marydale/MarydaleRegularBlack.ttf';
 
 const FeatureList = [
   {
     title: 'As Always Imani',
-    Svg: require('@site/static/img/asalwaysimani_wordmark.svg').default,
+    Svg: require('@site/static/img/AsAlwaysImani_Homepage.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
+        Digital & analong game development and design projects, as well as original creative writing works, and much more.
       </>
     ),
   },
   {
     title: 'Margaret Catter Development',
-    Svg: require('@site/static/img/MargaretCatterDev_v00.svg').default,
+    Svg: require('@site/static/img/MargaretCatterDev_Homepage.svg').default,
     description: (
       <>
         A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.</>
@@ -31,7 +33,7 @@ const FeatureList = [
   // },
   {
     title: 'She Be Spittin Thou',
-    Svg: require('@site/static/img/SheBeSpittinThou_v00.svg').default,
+    Svg: require('@site/static/img/SheBeSpittinThou_Homepage.svg').default,
     description: (
       <>
        Things that need to be said and we're bringing back personal blogs to say them.
@@ -47,7 +49,7 @@ function Feature({Svg, title, description}) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        {/* <h3>{title}</h3> */}
         <p>{description}</p>
       </div>
     </div>
