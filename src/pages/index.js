@@ -17,9 +17,9 @@ function HomepageHeader() {
 				<div className={styles.buttons}>
 					<Link
 						className="button button--secondary button--lg"
-						to="/docs/intro"
+						to="/docs/index"
 					>
-						Learn More About My Work
+						Open Projects List
 					</Link>
 				</div>
 			</div>
@@ -32,7 +32,7 @@ export default function Home() {
 	return (
 		<Layout
 			title={`${siteConfig.title}`}
-			description="Doing all the things all over the internet"
+			description="Doing all the things all on the internet"
 		>
 			<HomepageHeader />
 			<main>
