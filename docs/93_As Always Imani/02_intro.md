@@ -1,7 +1,6 @@
 ---
 title: Intro
 author: Imani
-date: 2023-01-14
 description: This is where I would write a bio...if I had one!
 ---
 
@@ -10,6 +9,5 @@ Doing all the things all over the internet. In a long term emotional relationshi
 [As Always Imani on CoHost](https://cohost.org/asalwaysimani)  
 [Support my creative works via Ko-fi](https://ko-fi.com/asalwaysimani)  
 [Catch me live on twitch at As Always Imani](https://www.twitch.tv/asalwaysimani)  
-[Live tweeting my life on twitter](https://twitter.com/asalwaysimani)  
 [Support my creative works via Throne](https://throne.me/u/asalwaysimani)  
 [As Always Imani on Tumblr](https://www.tumblr.com/asalwaysimani)  

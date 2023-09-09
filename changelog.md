@@ -1,11 +1,110 @@
 ---
 title: Changelog
 author: Imani
-date: 2022-09-11
 ---
-## [Version 8] - 2022-04-09
 
-## Changes
+## To Do
+
+- [ ] Figure out contents for FAQ
+- [ ] Reach out to everyone you've credited on various games and ask for their contact information to add to the sources & game pages.
+- [ ] Create dark mode version of homepage images
+- [ ] Fix scaling so you can always see the sidebar buttons no matter size of website frame
+    - Currently NOT moblie friendly
+- [ ] Fix scaling of homepage images
+- [ ] Make homepage images linked images to to their sidebar pages.
+- [ ] Make "Intro" the first page in sidebar
+- [ ] Add information about Mnemsyn Ashwell and original writing projects
+- [ ] Update and fill out Frequently Asked Questions
+- [ ] Update and fill out Cite Your Sources
+    - [ ] Check various master docs for references & inspirations sections
+- [ ] 
+
+## [Version 10] - 2023-09-08
+
+### Changes
+
+- Reordered page orders in sidebar
+- Added sections to "Find Me Around The Web"/Contacts
+    - Removed twitter from contacts list
+- Removed twitter link from Intro page
+- Changed Readme
+    - Realized that index was the same information as readme
+- Created Check Yes Romeo page under Margaret Catter Dev
+- Added logo images to the following pages
+    - Check Yes Romeo
+    - Hot Off The Press
+- Moved "Cite Your Sources"/Sources into Margaret Catter Development
+- Numbered docs in NeoCitiesChronicles
+- Numbered docs in High Metropolys
+- Numbered docs in Mnemosyne Ashwell
+- Added Preorder link to Neo Cities Chronicles TTRPG
+- Moved Burn Out the Sun out of High Metropolys. Moved to Mnemosyne Ashwell
+- Removed "date" from metadata section of various docs
+- Created Micro Games folder
+    - Created table of contents with all games summaries for planned micro games
+
+## [Version 9] - 2023-07-09
+
+### Changes
+
+- Fixed the year on changelog post 4 though 8 to the correct year.
+    - Removed the date tag from the header yaml for the changelog
+- Changed the homepage images for As Always Imani, Margaert Catter Dev, She Be Spittin Though
+    - Created PNG files but could not figure out how to make them work instead changed them to the seemingly required SVG files.
+- Added Marydale as a font inside project.
+- Created an "old" folder for previous verions of images uploaded to site.
+    - Added folder to gitignore.
+- Added spaces to folder names (ex: MnemosyneAshwell -> Mnemosyne Ashwell)
+- Change "Index" page to "Projects Listings"
+
+### Notes
+
+asalwaysimani.com
+├── As Always Imani
+│   ├── General update space on all projects
+│   └── The Internet Was Probably A Mistake - A historical commentary on growing up in online spaces. From AOL Kids till Now. Circa 2000
+├── margaretcatter.dev
+│   └── Digital & Analog game development and design works
+│       ├── Analong Games
+│       │   ├── High Metropolys
+│       │   └── NeoCititesChronicles
+│       └── Digital Games
+│           ├── Hurricane Like Me
+│           └── Look Ma We Made It
+├── She Be Spittin Though
+│   ├── Selftitled Music Project - Character and themed playlist with written attachments
+│   ├── Fake Tour Posters - Posters for tours I wish would happen
+│   ├── Minor mutinous musing - Because fuck you america
+│   ├── Lets Be Blashpemy - Attack and dethrone god. His time has come to an end
+│   ├── Why Wasn't This A Tweet - Seriously you went extra hard for no reason please stop
+│   └── Not Ted Talks - Fuck Bananas, the english language, and bananas (again)
+└── Mnemosyne Ashwell
+    └── Original creative writing projects
+        ├── The Galaxy is Limitless
+        │   ├── This Old Black Magic
+        │   ├── Mother May I
+        │   ├── A King From My Kingdom
+        │   ├── You Should See Me In A Crown
+        │   ├── Curse of Cassandra
+        │   └── A Black Cat With A Particular Name
+        ├── Chasing the Beginning of Happyness
+        ├── Eight Kingdoms
+        ├── Project Mia Hamm
+        ├── These Kids Will Wear Crowns
+        └── Pitch Please - Because I have too many goddamn ideas
+
+- Figure out if SVG files can have names with number in them, it seems to through an error but this error could also be because the svg files have fonts that can't be loaded. 
+    > Invalid character in entity name
+- [https://convertio.co/] - for converting PNG files to SVG files
+- [tree.nathanfriend.io] - markdown trees
+- src -> pages -> index.js
+    - Top header half of the homepage
+- src -> components -> HomepageFeatures -> index.js
+    - Body text of the homepage
+
+## [Version 8] - 2023-04-09
+
+### Changes
 
 - Added numbers to file names to manually reorder sidebar.
 - Created ProjectMiaHamm.md
@@ -25,7 +124,7 @@ date: 2022-09-11
 - 93_SheBeSpittinThou
     Created She Be Spittin Though folder
 
-## [Version 7] - 2022-04-02
+## [Version 7] - 2023-04-02
 
 ### Changes
 - Corrected the title in the docusaurus.config.js (title: 'As Always Imani' from '...')
@@ -59,7 +158,7 @@ date: 2022-09-11
             High Metropolys
                 High Metropoly.md
 
-## [Version 6] - 2022-03-16
+## [Version 6] - 2023-03-16
 
 ### Changes
 
@@ -70,7 +169,7 @@ date: 2022-09-11
 - Fixed line breaks on contact.md page
 - Removed duplicate markdown files outside of the docs folder
 
-## [Version 5] - 2022-03-12
+## [Version 5] - 2023-03-12
 
 ### Changes
 
@@ -81,7 +180,7 @@ date: 2022-09-11
     - Moved default docusurus imgs into folder
 - Changed colorway
 
-## [Version 4] - 2022-01-11
+## [Version 4] - 2023-01-11
 
 - Built out project using ccodesandbox.io.
 

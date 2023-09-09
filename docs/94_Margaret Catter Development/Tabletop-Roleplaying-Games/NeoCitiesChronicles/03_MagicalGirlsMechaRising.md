@@ -1,8 +1,7 @@
 ---
 title: Magical Girls Mecha Rising
 author: Imani
-date: 2023-04-02
-category: Board Game
+category: [Board Game]
 description: 'A legacy deck building roleplaying game'
 ---
 

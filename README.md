@@ -3,34 +3,13 @@ title: README
 author: Imani
 date: 2022-09-11
 keywords:
-description: Projects & Progress List
+
 ---
 
-|       Master Project        | Sub Project                     | Format                  | Status       | Major Goal                    | Goal Date     |
-|:---------------------------:|---------------------------------|-------------------------|--------------|-------------------------------|---------------|
-|       High Metropolys       |                                 |                         |              |                               |               |
-|                             | Ascent of Crystal Tower         | Solo TTRPG              | In Progress  | Combine all mechanics notes   | December 2022 |
-|                             | The Empire of Unsheathed Knives | TTRPG Setting/Adventure | Ideation     | Flesh out plot outline        | Q3 2023       |
-|                             | Those Broken & Beloved Things   | Cut & Glue TTRPG        | Rough Draft  | Revise mechanics notes        | 2023          |
-|                             | The Red Lich Queen of Hedgeline | TTRPG Setting/Adventure | On Hiatus    | Reread & make notes           | 2023          |
-|    Neo Cities Chronicles    |                                 |                         |              |                               |               |
-|                             | Magical Girls & Mecha           | Play By Post RPG        | In Revisions |                               |               |
-|                             | Magical Girl Mecha Rising       | Roleplay Board Game     | In Revisions | Complete Game Design Document | November 2022 |
-|                             | Neo Cities Chronicles           | TTRPG System            | In Revisions | Revise & send to CJ for notes |               |
-|                             | Key's To The Door               | TTRPG Adventure         | On Hiatus    | Outline                       |               |
-|     Look Ma, We Made It     |                                 | VR Rhythm Visual Novel  |              |                               |               |
-| All The Faces of Dante Hall |                                 | Visual Novel            |              |                               |               |
-|  Magical Space Adventures   |                                 | Visual Novel            |              |                               |               |
-|      Hurrican Like Me       |                                 | Visual Novel            | In Progress  | Revise & finish game script   |               |
+![AsAlwaysImani-docs](https://socialify.git.ci/asalwaysimani/AsAlwaysImani-docs/image?description=1&descriptionEditable=The%20always%20under-construction%20website%20and%20blog%20for%20the%20various%20workings%20on%20the%20internet.%20Built%20using%20Docusaurus%20v2&font=Bitter&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 
-- Quarters
-  - Q1: January, February, March
-  - Q2: April, May, June
-  - Q3: July, August, September
-  - Q4: October, November, December
+Imani can be found doing all the things all over the internet, such as game development & design projects, multidisciplinary creative writing works, live lets plays of solo tabletop board games, and then some.
 
-- Seasons
-  - Winter: December, January, February
-  - Spring: March, April, May
-  - Summer: June, July, August
-  - Fall: September, October, November
+They are in a long-term emotional relationship with Pop Punk.
+
+You can find them live streaming on [twitch](https://www.twitch.tv/asalwaysimani). 

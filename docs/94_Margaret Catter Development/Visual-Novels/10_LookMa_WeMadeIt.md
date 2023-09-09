@@ -1,8 +1,7 @@
 ---
 title: Look Ma We Made It
 author: Imani
-date: 2023-04-02
-category: English Language Visual Novel
+category: [English Language Visual Novel]
 ---
 
 ## About the Game

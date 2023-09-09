@@ -1,8 +1,7 @@
 ---
 title: The Those Broken & Beloved Thing
 author: Imani
-date: 2023-04-02
-category: TTRPG
+category: [TTRPG]
 ---
 
 ## About the Game

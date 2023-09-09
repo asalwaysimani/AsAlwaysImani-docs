@@ -1,8 +1,7 @@
 ---
 title: Magical Girls & Mecha
 author: Imani
-date: 2023-04-02
-category: TTRPG
+category: [TTRPG, Play-By-Post]
 description: 'A pocket-sized Legacy TTRPG Played on Discord'
 ---
 

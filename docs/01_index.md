@@ -1,7 +1,6 @@
 ---
-title: Index
+title: Open Projects List
 author: Imani
-date: 2022-11-14
 description: Projects & Progress List
 ---
 
