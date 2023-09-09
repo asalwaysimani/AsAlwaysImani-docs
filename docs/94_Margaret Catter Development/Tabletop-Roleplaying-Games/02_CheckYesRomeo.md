@@ -1,0 +1,27 @@
+---
+title: Check Yes Romeo
+author: Imani
+date: 2020-05-20
+category: [TTRPG, Card Game]
+---
+![Check Yes Romeo Logo](../../_img/CheckYesRomeo_Logo.png)
+
+## About The Game
+
+Check Yes, Romeo is a game meant to break the ice between people, be they friends or strangers, and allow them to get to know one another better. It is an improv roleplaying game where each playthrough will be different depending on who is playing. Games should last approximately 60 to 80 minutes.
+
+Game Contents: One ruleset, duplex printable question cards, excel spread sheet of cards
+Number of Players: Three to six 
+Age of Players: 16+ 
+Length of Game: 60 to 80 minutes 
+Card Count: 52 
+Format: Digital
+
+### Where to Buy
+[Check Yes Romeo on Itch.io](https://margaretcatter.itch.io/check-yes-romeo)
+
+### Genre
+Romance, Improv
+
+### Status
+Published

@@ -1,9 +1,10 @@
 ---
 title: Hot off the Press
 author: Imani
-date: 2023-04-02
-category: TTRPG
+category: [TTRPG]
 ---
+
+![Hot Off The Press Logo](../../_img/CheckYesRomeo_Logo.png)
 
 ## About The Game
 
@@ -23,7 +24,7 @@ A tabletop role-playing game for a GM and 3 to 5 players.
 [Hot off the Press on Itch.io](https://margaretcatter.itch.io/hot-off-the-press)
 
 ### Genre 
-Mystery & Drama
+Mystery, Drama
 
 ### Status
 Published - In Revisions
