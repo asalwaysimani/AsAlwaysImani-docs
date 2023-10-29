@@ -7,8 +7,6 @@ AsAlwaysImani.code-workspace
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
-
-
 # Dependencies
 /node_modules
 
