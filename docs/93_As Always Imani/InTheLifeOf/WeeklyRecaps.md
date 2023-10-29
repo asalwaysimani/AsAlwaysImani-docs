@@ -1,8 +1,6 @@
 ---
 title: Weekly Recaps
 author: Imani
-date: 20YY-MM-DD
-keywords:
 description: Weekly or maybe bi-weekly recaps of things that I think are important enough to note down for the future.
 ---
 
