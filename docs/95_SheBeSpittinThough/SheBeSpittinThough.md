@@ -1,7 +1,6 @@
 ---
-title: 
+title: She Be Spittin Though
 author: Imani
-keywords:
 description: Because we're bringing back personal blogs. 
 ---
 
