@@ -7,19 +7,23 @@ import './fonts/Marydale/MarydaleRegularBlack.ttf';
 const FeatureList = [
   {
     title: 'As Always Imani',
+
     Svg: require('@site/static/img/AsAlwaysImani_Homepage.svg').default,
     description: (
       <>
         Digital & analong game development and design projects, as well as original creative writing works, and much more.
+
       </>
     ),
   },
   {
     title: 'Margaret Catter Development',
+
     Svg: require('@site/static/img/MargaretCatterDev_Homepage.svg').default,
+
     description: (
       <>
-        A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.</>
+      A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.</>
     ),
   },
   // {
@@ -33,10 +37,12 @@ const FeatureList = [
   // },
   {
     title: 'She Be Spittin Thou',
+
     Svg: require('@site/static/img/SheBeSpittinThou_Homepage.svg').default,
+
     description: (
       <>
-       Things that need to be said and we're bringing back personal blogs to say them.
+      Things that need to be said and we're bringing back personal blogs to say them.
       </>
     ),
   },

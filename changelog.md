@@ -2,6 +2,47 @@
 title: Changelog
 author: Imani
 ---
+
+## To Do
+
+- [ ] Figure out contents for FAQ
+- [ ] Reach out to everyone you've credited on various games and ask for their contact information to add to the sources & game pages.
+- [ ] Create dark mode version of homepage images
+- [ ] Fix scaling so you can always see the sidebar buttons no matter size of website frame
+    - Currently NOT moblie friendly
+- [ ] Fix scaling of homepage images
+- [ ] Make homepage images linked images to to their sidebar pages.
+- [ ] Make "Intro" the first page in sidebar
+- [ ] Add information about Mnemsyn Ashwell and original writing projects
+- [ ] Update and fill out Frequently Asked Questions
+- [ ] Update and fill out Cite Your Sources
+    - [ ] Check various master docs for references & inspirations sections
+- [ ] 
+
+## [Version 10] - 2023-09-08
+
+### Changes
+
+- Reordered page orders in sidebar
+- Added sections to "Find Me Around The Web"/Contacts
+    - Removed twitter from contacts list
+- Removed twitter link from Intro page
+- Changed Readme
+    - Realized that index was the same information as readme
+- Created Check Yes Romeo page under Margaret Catter Dev
+- Added logo images to the following pages
+    - Check Yes Romeo
+    - Hot Off The Press
+- Moved "Cite Your Sources"/Sources into Margaret Catter Development
+- Numbered docs in NeoCitiesChronicles
+- Numbered docs in High Metropolys
+- Numbered docs in Mnemosyne Ashwell
+- Added Preorder link to Neo Cities Chronicles TTRPG
+- Moved Burn Out the Sun out of High Metropolys. Moved to Mnemosyne Ashwell
+- Removed "date" from metadata section of various docs
+- Created Micro Games folder
+    - Created table of contents with all games summaries for planned micro games
+
 ## [Version 9] - 2023-07-09
 
 ### Changes
@@ -14,20 +55,7 @@ author: Imani
 - Created an "old" folder for previous verions of images uploaded to site.
     - Added folder to gitignore.
 - Added spaces to folder names (ex: MnemosyneAshwell -> Mnemosyne Ashwell)
-
-### To Do
-
-- [ ] Create dark mode version of homepage images
-- [ ] Fix scaling so you can always see the sidebar buttons no matter size of website frame
-    - Currently NOT moblie friendly
-- [ ] Fix scaling of homepage images
-- [ ] Make homepage images linked images to to their sidebar pages.
-- [x] Change "Index" page to "Projects Listings"
-- [ ] Make "Intro" the first page in sidebar
-- [ ] Add information about Mnemsyn Ashwell and original writing projects
-- [ ] Update and fill out Frequently Asked Questions
-- [ ] Update and fill out Cite Your Sources
-    - Check various master docs for references & inspirations sections
+- Change "Index" page to "Projects Listings"
 
 ### Notes
 

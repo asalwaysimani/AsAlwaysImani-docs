@@ -1,8 +1,7 @@
 ---
 title: Neo Cities Chronicles
 author: Imani
-date: 2023-04-02
-category: TTRPG
+category: [TTRPG]
 ---
 
 ## About the Game
@@ -14,8 +13,12 @@ Neo Cities Chronicles and its shared universe is a political fantasy war game se
 
 Its target demographic is that of the shoujo or josei variety. As such this is a reference to the general demographic of players rather than a game style. 
 
-<!-- ### Where to Buy  -->
+### Where to Buy
+[Pre Order Neo Cities Chronicles on itch.io](https://margaretcatter.itch.io/neo-cities-chronicles)
+
 ### Genre
 Shoujo, Magical Girl, Mecha, Adventure
-<!-- ### Status
-### Updated -->
+
+### Status
+In Development
+<!-- ### Updated -->

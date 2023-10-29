@@ -1,8 +1,7 @@
 ---
 title: Hurricane Like Me
 author: Imani
-date: 2023-04-02
-category: English Language Visual Novel
+category: [English Language Visual Novel]
 ---
 
 ## About the Game
