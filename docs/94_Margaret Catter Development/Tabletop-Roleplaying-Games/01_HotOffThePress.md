@@ -4,7 +4,7 @@ author: Imani
 category: [TTRPG]
 ---
 
-![Hot Off The Press Logo](../../_img/CheckYesRomeo_Logo.png)
+![Hot Off The Press Logo](../../_img/HotOffThePress_Logo_72dpi.png)
 
 ## About The Game
 
