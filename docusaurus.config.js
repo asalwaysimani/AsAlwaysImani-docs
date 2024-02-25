@@ -33,15 +33,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
     path: 'i18n',
-    // localeConfigs: {
-    //   en: {
-    //     label: 'English',
-    //     direction: 'ltr',
-    //     htmlLang: 'en-US',
-    //     calendar: 'gregory',
-    //     path: 'en',
-    //   },
-    // },
+      localeConfigs: {
+        en: {
+          label: 'English',
+          direction: 'ltr',
+          htmlLang: 'en-US',
+          calendar: 'gregory',
+          path: 'en',
+        },
+      },
   },
 
   presets: [
