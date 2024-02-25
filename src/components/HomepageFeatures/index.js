@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Margaret Catter Development',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/MargaretCatterDev_docusaurus.svg').default,
     description: (
       <>
         A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.
