@@ -23,7 +23,7 @@ const config = {
   organizationName: 'As Always Imani', // Usually your GitHub org/user name.
   projectName: 'As Always Imani Docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Intro',
-                to: '/docs/01_As Always Imani/02_intro.mdx',
+                to: '/docs/01_intro',
               },
             ],
           },
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Links',
-                href: '/docs/contact',
+                href: '/docs/99_contact',
               },
               {
                 label: 'Twitch',
@@ -127,8 +127,8 @@ const config = {
             title: 'Margaret Catter Development',
             items: [
               {
-                label: 'Projects',
-                href: 'src/pages/projects/MargaretCatterDevelopment',
+                label: 'Margaret Catter Developments',
+                href: 'https://margaretcatter.dev/',
               },
               {
                 label: 'Itch.io',

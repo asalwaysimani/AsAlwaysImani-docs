@@ -29,6 +29,7 @@ author: Imani
 - [ ] Figure out how to change the next/previous button when at the end of a section it goes to the top of the next section and not directly into the folders.
 - [ ] Fill in the information for All the Faces of Dante Hall
 - [ ] Fill in the information for Magical Space Adventuress
+- [ ] Add link and page for "Pls No QRT"
 
 ## To Do
 
