@@ -81,10 +81,10 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
+            type: 'doc',
             sidebarId: 'intro',
             position: 'left',
-            label: 'Introduction',
+            label: 'Intro',
           },
           {to: '/blog', label: 'on CoHost', position: 'left'},
           {
