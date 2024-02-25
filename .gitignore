@@ -1,7 +1,5 @@
 AsAlwaysImani.code-workspace
 
-/ToDo.md
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

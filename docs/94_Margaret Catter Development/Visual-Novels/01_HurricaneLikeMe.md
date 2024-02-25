@@ -4,8 +4,6 @@ author: Imani
 category: [English Language Visual Novel]
 ---
 
-![Hurricane Like Me](docs\_img\hurricane_like_me_logo_by_mitoky.png)
-
 ## About the Game
 Its a slice of life short game about a girl named Eir who is as I put it a hot mess masquerading as a human being. She's an executive art director who is great at running other peoples lives and managing projects but is  terrible at her own life. The games plot centers around her losing her bag on a New York City train and the boy who finds it and is trying to reunite her with her things and the stumbling blocks they face.
 ### Where to Buy 
