@@ -38,7 +38,7 @@ AsAlwaysImani\
     │   ├── Burn Out The Sun\
     │   └── Project Mia Hamm\
     └── Nonfiction-Projects\
-        └── Pitches Please\
+        └── Pitches Please
 
 |             Master Project              | Sub Project                           | Format                  | Status                  | Major Goal                     |
 | :-------------------------------------: | ------------------------------------- | ----------------------- | ----------------------- | ------------------------------ |
