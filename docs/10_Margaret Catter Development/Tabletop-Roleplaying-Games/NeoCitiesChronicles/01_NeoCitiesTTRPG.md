@@ -4,7 +4,7 @@ author: Imani
 category: [TTRPG]
 ---
 
-![Neo Cities Chronicles](docs\_img\NeoCitiesChronicles_logo_72dpi.png)
+![Neo Cities Chronicles](./static/img/logos/NeoCitiesChronicles_logo_72dpi.png "Neo Cities Chronicles Logo")
 
 ## About the Game
 In the fantasy world of Neo Cities Chronicles, it is much like our own until the event known as The Opening of the Door. When this happened The-Once-From-Before began coming into the world and trying to colonize it for themselves and morph it into a place they they could live regardless of the people and things that already existed in the space. 

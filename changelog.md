@@ -10,6 +10,7 @@ author: Imani
 - Visual Novel Pages for:
   - Magical Space Adventures
   - All The Faces of Dante Hall
+- Clone Rounded Font
 
 ### Changes
 
@@ -20,6 +21,8 @@ author: Imani
 - Changed Mnemosyne Ashwell section name to Ionie Annette
 - Removed "Open" from "Projects List" page title
 - Renumbered sidebar
+- Updated images on the home page
+- Moved logo images from docs folder to statics folder with other images
 
 ## [Version 10] - 2023-09-08
 
