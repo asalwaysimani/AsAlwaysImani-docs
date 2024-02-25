@@ -3,32 +3,10 @@ title: Changelog
 author: Imani
 ---
 
-## To Do for 2024-02-25
+## [Version 11] - 2024-02-24
 
-- [ ] Fill out the FAQ
-  - [ ] Games That Influence My Work
-  - [ ] Books that Influence My Work
-  - [ ] TV Shows & Movies Books that Influence My Work
-- [ ] Add links to various projects within Open Projects List page
-- [ ] Remove Goal Date from Open Projects List
-  - [ ] Quarters & Seasons
-- [ ] Add a better longer bio on intro page
-  - [ ] Remove links and instead link to Contact page
-- [ ] Quarterly Chronicles - Feb/March plans (cross post to cohost & kofi)
-- [ ] Add links to itch.io for published Micro TTRPGs
-- [ ] Add banner images for Neo Cities Chronicles
-- [ ] Add banner images for Magical Girls & Mecha
-- [ ] Add building assets, location description, and other information for Magical Girls Mecha Rising
-- [ ] Add images for Hurricane Like Me
-  - [ ] Take new promo images & video for Hurricane Like Me
-- [ ] Add newer information to Look Ma We Made It
-- [ ] Create landing page (a react/typescript page?) for:
-  - [ ] Forever A Scene Kid
-  - [ ] My Internet Scrapbook Project
-  - [ ] Why Wasn't This A Tweet
-- [ ] Figure out how to change the next/previous button when at the end of a section it goes to the top of the next section and not directly into the folders. 
+### Additions
 
-<<<<<<< HEAD
 - Visual Novel Pages for:
   - Magical Space Adventures
   - All The Faces of Dante Hall
