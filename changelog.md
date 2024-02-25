@@ -26,6 +26,24 @@ author: Imani
 - Updated images on the home page
 - Moved logo images from the docs folder to the statics folder with other images
 - Started filling in influences on the FAQ page
+<<<<<<< HEAD
+=======
+=======
+## To Do
+
+- [ ] Reach out to everyone you've credited on various games and ask for their contact information to add to the sources & game pages.
+- [ ] Create dark mode version of homepage images
+- [ ] Fix scaling so you can always see the sidebar buttons no matter size of website frame
+  - Currently NOT moblie friendly
+- [ ] Fix scaling of homepage images
+- [ ] Make homepage images linked images to to their sidebar pages.
+- [ ] Make "Intro" the first page in sidebar
+- [ ] Add information about Mnemosyne Ashwell and original writing projects
+- [ ] Update and fill out Cite Your Sources
+    - [ ] Check various master docs for references & inspirations sections
+- [ ] 
+>>>>>>> parent of 2d97599 (switching to sandbox)
+>>>>>>> b3d1129f41dad36b589ab4b6faacc36db9739e6d
 
 ## [Version 10] - 2023-09-08
 
