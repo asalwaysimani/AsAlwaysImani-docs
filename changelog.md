@@ -3,6 +3,7 @@ title: Changelog
 author: Imani
 ---
 
+<<<<<<< HEAD
 ## [Version 11] - 2024-02-24
 
 ### Additions
@@ -29,21 +30,32 @@ author: Imani
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> parent of fbd6cf6 (brining in sync)
 ## To Do
 
+- [ ] Figure out contents for FAQ
 - [ ] Reach out to everyone you've credited on various games and ask for their contact information to add to the sources & game pages.
 - [ ] Create dark mode version of homepage images
 - [ ] Fix scaling so you can always see the sidebar buttons no matter size of website frame
+<<<<<<< HEAD
   - Currently NOT moblie friendly
+=======
+    - Currently NOT moblie friendly
+>>>>>>> parent of fbd6cf6 (brining in sync)
 - [ ] Fix scaling of homepage images
 - [ ] Make homepage images linked images to to their sidebar pages.
 - [ ] Make "Intro" the first page in sidebar
-- [ ] Add information about Mnemosyne Ashwell and original writing projects
+- [ ] Add information about Mnemsyn Ashwell and original writing projects
+- [ ] Update and fill out Frequently Asked Questions
 - [ ] Update and fill out Cite Your Sources
     - [ ] Check various master docs for references & inspirations sections
 - [ ] 
+<<<<<<< HEAD
 >>>>>>> parent of 2d97599 (switching to sandbox)
 >>>>>>> b3d1129f41dad36b589ab4b6faacc36db9739e6d
+=======
+>>>>>>> parent of fbd6cf6 (brining in sync)
 
 ## [Version 10] - 2023-09-08
 
