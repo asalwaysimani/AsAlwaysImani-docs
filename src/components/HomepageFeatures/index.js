@@ -3,15 +3,15 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'As Always Imani',
-    Svg: require('@site/static/img/asalwaysimani_wordmark.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
-      </>
-    ),
-  },
+    // {
+    //   title: 'As Always Imani',
+    //   Svg: require('@site/static/img/asalwaysimani_wordmark.svg').default,
+    //   description: (
+    //     <>
+          
+    //     </>
+    //   ),
+    // },
   {
     title: 'Margaret Catter Development',
     Svg: require('@site/static/img/MargaretCatterDev_docusaurus.svg').default,

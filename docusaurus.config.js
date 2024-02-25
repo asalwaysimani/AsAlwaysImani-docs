@@ -84,14 +84,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Intro',
+            label: 'About As Always Imani',
           },
           {to: '/blog', label: 'on CoHost', position: 'left'},
-          {
-            href: 'https://cohost.org/asalwaysimani/',
-            label: 'cohost',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://cohost.org/asalwaysimani/',
+          //   label: 'cohost',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
