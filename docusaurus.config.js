@@ -4,57 +4,73 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+const path = require('path');
+const lightCodeTheme = require('prism-react-renderer/themes/vsLight');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
-
+  title: "As Always Imani",
+  tagline: "doing all the things all over the internet",
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: "https://asalwaysimani.com/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  trailingSlash: true,
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: 'throw',
+  favicon: "img/asalwaysimani_wordmark.ico",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
+  organizationName: 'as always imani', // Usually your GitHub org/user name.
+  projectName: 'AsAlwaysImani-docs', // Usually your repo name.
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+  staticDirectories: ['static', 'blog'],
+  
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+    path: 'i18n',
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      },
+    },
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
+        
+        exclude: ['**/*.wip'],
+        breadcrumbs: true,
+        // showLastUpdateAuthor: true,
+        // showLastUpdateTime: true,
+        
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+         // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
+        
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -63,73 +79,81 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
+
       navbar: {
-        title: 'My Site',
+        hideOnScroll: false,
+        title: "As Always Imani",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: "As Always Imani Logo",
+          src: "img/asalwaysimani_wordmark.svg",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            type: "doc",
+            docId: "intro",
+            position: "left",
+            label: "Intro",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: "/blog", 
+          label: "on CoHost", 
+          position: "left" },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://cohost.org/asalwaysimani/",
+            label: "cohost",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: "Intro",
+                to: "/docs/intro",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "Links",
+                to: "/docs/contact",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "Twitch",
+                href: "https://www.twitch.tv/asalwaysimani",
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "Ko-fi",
+                href: "https://ko-fi.com/asalwaysimani",
               },
             ],
           },
           {
-            title: 'More',
+            title: "Margaret Catter Development",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Projects",
+                to: "src/pages/projects/MargaretCatterDevelopment",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: "Itch.io",
+                href: "https://margaretcatter.itch.io/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
