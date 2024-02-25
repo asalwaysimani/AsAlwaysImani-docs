@@ -1,54 +1,35 @@
-import React from 'react';
 import clsx from 'clsx';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import './fonts/CloneRounded/CloneRounded-bd.otf'
-import './fonts/CloneRounded/CloneRounded-eb.otf'
-import './fonts/CloneRounded/CloneRounded-el.otf'
-import './fonts/CloneRounded/CloneRounded-lt.otf'
-import './fonts/CloneRounded/CloneRounded-me.otf'
-import './fonts/CloneRounded/CloneRounded-rg.otf'
-import './fonts/CloneRounded/CloneRounded-sb.otf'
-import './fonts/CloneRounded/CloneRounded-th.otf'
 
 const FeatureList = [
   {
-    title: 'As Always Imani',
-
-    Svg: require('@site/static/img/AsAlwaysImani_Docusaurus_dark.svg').default,
+    title: 'Easy to Use',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Digital & analong game development and design projects, as well as original creative writing works, and much more.
-
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Margaret Catter Development',
-
-    Svg: require('@site/static/img/MargaretCatterDev_docusaurus.svg').default,
-
+    title: 'Focus on What Matters',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.</>
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
+      </>
     ),
   },
-   {
-     title: 'Ionie Annette',
-     Svg: require('@site/static/img/IonieAnnette_docusaurus.svg').default,
-     description: (
-       <>
-        The creative pseudonym for original prose works in various narrative formats.
-       </>
-     ),
-   },
   {
-    title: 'She Be Spittin Thou',
-
-    Svg: require('@site/static/img/SheBeSpittinThough_docusaurus.svg').default,
-
+    title: 'Powered by React',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-      Things that need to be said and we're bringing back personal blogs baby to say them.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },
@@ -61,7 +42,7 @@ function Feature({Svg, title, description}) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        {/* <h3>{title}</h3> */}
+        <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
     </div>

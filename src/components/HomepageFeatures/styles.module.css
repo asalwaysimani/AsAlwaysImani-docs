@@ -9,19 +9,3 @@
   height: 200px;
   width: 200px;
 }
-
-@font-face {
-  font-family: "clone-rounded-latin", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  src: local("CloneRounded-rg"),
-  url ("./fonts/CloneRounded/CloneRounded-rg.otf") format("OpenType");
-}
-
-@font-face {
-  font-family: "clone-rounded-latin", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  src: local("CloneRounded-bd"),
-  url ("./fonts/CloneRounded/CloneRounded-bd.otf") format("OpenType");
-}
