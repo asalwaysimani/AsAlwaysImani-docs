@@ -22,7 +22,8 @@ author: Imani
 - Removed "Open" from "Projects List" page title
 - Renumbered sidebar
 - Updated images on the home page
-- Moved logo images from docs folder to statics folder with other images
+- Moved logo images from the docs folder to the statics folder with other images
+- Started filling in influences on the FAQ page
 
 ## [Version 10] - 2023-09-08
 
