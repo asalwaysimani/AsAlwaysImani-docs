@@ -1,5 +1,10 @@
 AsAlwaysImani.code-workspace
 
+# redundant folders
+
+/static/img/_old
+blog/
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -16,10 +21,6 @@ AsAlwaysImani.code-workspace
 # Generated files
 .docusaurus
 .cache-loader
-
-# redundant folders
-
-/static/img/old
 
 # Misc
 .DS_Store
