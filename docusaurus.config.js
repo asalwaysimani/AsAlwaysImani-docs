@@ -23,7 +23,7 @@ const config = {
   organizationName: 'As Always Imani', // Usually your GitHub org/user name.
   projectName: 'As Always Imani Docs', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
