@@ -5,6 +5,18 @@ author: Imani
 
 ## Games That Influence My Work
 
+Final Fantasy Tactics Advance the 2003 tactical role-playing game developed and published by Square for the Nintendo Game Boy Advance.
+
 ## Books that Influence My Work
 
-## TV Shows & Movies Books that Influence My Work
+Young Wizards the 1983 series of novels by Diane Duane about a thirteen-year-old girl living in New York City, discovers a book entitled So You Want to Be a Wizard.
+
+The Hollows or the Rachel Morgan series, is an urban fantasy novel series by Kim Harrison set in an alternate-history universe built upon two premises: the recent open existence of magical and supernatural species, primarily witches, vampires, and werewolves, with the human population; and the historical investment of Cold War military spending in genetic engineering as opposed to the Space Race, which resulted in the accidental release of a genetically modified tomato in the 1960s that killed a significant portion of the human population.
+
+## TV Shows that Influence My Work
+
+## Movies that Influence My Work
+
+Spirited Away the 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki about Chihiro "Sen" Ogino, a ten-year-old girl who, while moving to a new neighborhood, inadvertently enters the world of kami.
+
+Kiki's Delivery Service the 1989 Japanese animated fantasy film written, produced, and directed by Hayao Miyazaki about a young witch named Kiki who moves to the port city of Koriko with her cat Jiji and starts a flying courier service.

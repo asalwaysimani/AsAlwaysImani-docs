@@ -11,6 +11,8 @@ author: Imani
   - Magical Space Adventures
   - All The Faces of Dante Hall
 - Clone Rounded Font
+- packages.json versioning is now by date of release + sequential numbering (year.month.date.git push Major.Minor push)
+  - 2024.02.24.04.02 -> Date 4th push to git with 2 major sets of changes
 
 ### Changes
 
@@ -22,7 +24,8 @@ author: Imani
 - Removed "Open" from "Projects List" page title
 - Renumbered sidebar
 - Updated images on the home page
-- Moved logo images from docs folder to statics folder with other images
+- Moved logo images from the docs folder to the statics folder with other images
+- Started filling in influences on the FAQ page
 
 ## [Version 10] - 2023-09-08
 
