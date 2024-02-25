@@ -2,44 +2,43 @@
 title: README
 author: Imani
 keywords:
-
 ---
 
-AsAlwaysImani
-├── She Be Spittin Though
-│   ├── Forever A Scene Kid
-│   ├── My Internet Scrapbook Project
-│   └── Why Wasn't This A Tweet
-├── Margaret Catter Development
-│   ├── Tabletop-Roleplaying-Games
-│   │   ├── High Metropolys
-│   │   │   ├── The Empire of Unsheathed Knives
-│   │   │   ├── Those Broken & Beloved Things
-│   │   │   └── The Empire of Unsheathed Knives
-│   │   ├── Neo Cities Chronicles
-│   │   │   ├── Magical Girls & Mecha
-│   │   │   ├── Magical Girl Mecha Rising
-│   │   │   └── Neo Cities Chronicles TTRPG
-│   │   │       └── Key's To The Door 
-│   │   ├── Hot off the Press
-│   │   └── Check Yes Romeo
-│   └── Visual-Novels
-│       ├── Hurricane Like Me
-│       ├── Look Ma We Made It
-│       ├── All The Faces of Dante Hall
-│       └── Magical Space Adventures
-└── Ionie Annette
-    ├── Prose-Projects
-    │   ├── The-Galaxy is Limitless
-    │   │   ├── A King For My Kingdom
-    │   │   └── This Old Black Magic
-    │   ├── These Kids Will Wear Crowns
-    │   ├── Chasing The Beginning of Happyness
-    │   ├── Eight Kingdoms
-    │   ├── Burn Out THe Sun
-    │   └── Project Mia Hamm
-    └── Nonfiction-Projects
-        └── Pitches Please
+AsAlwaysImani\
+├── She Be Spittin Though\
+│   ├── Forever A Scene Kid\
+│   ├── My Internet Scrapbook Project\
+│   └── Why Wasn't This A Tweet\
+├── Margaret Catter Development\
+│   ├── Tabletop-Roleplaying-Games\
+│   │   ├── High Metropolys\
+│   │   │   ├── The Empire of Unsheathed Knives\
+│   │   │   ├── Those Broken & Beloved Things\
+│   │   │   └── The Empire of Unsheathed Knives\
+│   │   ├── Neo Cities Chronicles\
+│   │   │   ├── Magical Girls & Mecha\
+│   │   │   ├── Magical Girl Mecha Rising\
+│   │   │   └── Neo Cities Chronicles TTRPG\
+│   │   │       └── Keys To The Door \
+│   │   ├── Hot off the Press\
+│   │   └── Check Yes Romeo\
+│   └── Visual-Novels\
+│       ├── Hurricane Like Me\
+│       ├── Look Ma We Made It\
+│       ├── All The Faces of Dante Hall\
+│       └── Magical Space Adventures\
+└── Ionie Annette\
+    ├── Prose-Projects\
+    │   ├── The Galaxy is Limitless\
+    │   │   ├── A King For My Kingdom\
+    │   │   └── This Old Black Magic\
+    │   ├── These Kids Will Wear Crowns\
+    │   ├── Chasing The Beginning of Happyness\
+    │   ├── Eight Kingdoms\
+    │   ├── Burn Out The Sun\
+    │   └── Project Mia Hamm\
+    └── Nonfiction-Projects\
+        └── Pitches Please\
 
 |             Master Project              | Sub Project                           | Format                  | Status                  | Major Goal                     |
 | :-------------------------------------: | ------------------------------------- | ----------------------- | ----------------------- | ------------------------------ |
@@ -49,7 +48,7 @@ AsAlwaysImani
 |                                         | The Red Lich Queen of Hedgeline       | TTRPG Setting/Adventure | On Hiatus               | Reread & make notes            |
 |          Neo Cities Chronicles          |                                       |                         |                         |                                |
 |                                         | Magical Girls & Mecha                 | Play By Post RPG        | In Revisions            |                                |
-|                                         | Magical Girl Mecha Rising             | Roleplay Board Game     | In Revisions            | Complete Game Design Document  |
+|                                         | Magical Girl Mecha Rising             | Role-play Board Game    | In Revisions            | Complete Game Design Document  |
 |                                         | Neo Cities Chronicles                 | TTRPG System            | In Revisions            | Revise & send for notes/review |
 |                                         | Key's To The Door                     | TTRPG Adventure         | On Hiatus               | Outline                        |
 |           Look Ma, We Made It           |                                       | VR Rhythm Visual Novel  |                         |                                |
