@@ -5,6 +5,16 @@ author: Imani
 
 ## Games That Influence My Work
 
+## Books that Influence My Work
+
+## TV Shows & Movies Books that Influence My Work
+---
+title: Frequently Asked Questions
+author: Imani
+---
+
+## Games That Influence My Work
+
 Final Fantasy Tactics Advance the 2003 tactical role-playing game developed and published by Square for the Nintendo Game Boy Advance.
 
 ## Books that Influence My Work
@@ -19,4 +29,4 @@ The Hollows or the Rachel Morgan series, is an urban fantasy novel series by Kim
 
 Spirited Away the 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki about Chihiro "Sen" Ogino, a ten-year-old girl who, while moving to a new neighborhood, inadvertently enters the world of kami.
 
-Kiki's Delivery Service the 1989 Japanese animated fantasy film written, produced, and directed by Hayao Miyazaki about a young witch named Kiki who moves to the port city of Koriko with her cat Jiji and starts a flying courier service.
+Kik
