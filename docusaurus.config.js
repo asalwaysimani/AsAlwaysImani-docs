@@ -16,7 +16,7 @@ const config = {
   url: 'https://asalwaysimani.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/build/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -101,16 +101,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Intro',
-                to: '/docs/01_intro',
+                label: 'Project Index',
+                to: '/docs/00_index.mdx',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Around the Internet',
             items: [
               {
-                label: 'Links',
+                label: 'Contact',
                 href: '/docs/99_contact',
               },
               {
@@ -148,6 +148,18 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    plugins: [
+      [
+        '@docusaurus/plugin-ideal-image',
+        {
+          quality: 70,
+          max: 480, // max resized image's size.
+          min: 270, // min resized image's size. if original is lower, use that size.
+          steps: 2, // the max number of images generated between min and max (inclusive)
+          disableInDev: false,
+        },
+      ],
+    ],
 };
 
 export default config;

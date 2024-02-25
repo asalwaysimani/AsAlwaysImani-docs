@@ -20,7 +20,8 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Welcome! ♡๐·°✩୧(๑˶╹o╹˶๑)୨✩°·๐♡
+            Welcome! 
+            ♡๐·°✩୧(๑˶╹o╹˶๑)୨✩°·๐♡
           </Link>
         </div>
       </div>
@@ -32,8 +33,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`As Always Imani ${siteConfig.title}`}
+      description="The personal website for the personal brand As Always Imani">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
