@@ -24,6 +24,7 @@ author: Imani
 - Updated images on the home page
 - Moved logo images from the docs folder to the statics folder with other images
 - Started filling in influences on the FAQ page
+- All markdown files changes MDX files
 
 ## [Version 10] - 2023-09-08
 
