@@ -4,32 +4,38 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'As Always Imani',
+    Svg: require('@site/static/img/asalwaysimani_wordmark.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Margaret Catter Development',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Ionie Annette',
+    Svg: require('@site/static/img/IonieAnnette_docusaurus.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The creative pseudonym for original prose works in various narrative formats.
+      </>
+    ),
+  },
+  {
+    title: 'She Be Spittin Thou',
+    Svg: require('@site/static/img/SheBeSpittinThough_docusaurus.svg').default,
+    description: (
+      <>
+        Things that need to be said and we're bringing back personal blogs baby to say them.
       </>
     ),
   },
