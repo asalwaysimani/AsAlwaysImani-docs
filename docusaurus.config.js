@@ -32,7 +32,7 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
-    // path: 'i18n',
+    path: 'i18n',
     // localeConfigs: {
     //   en: {
     //     label: 'English',
