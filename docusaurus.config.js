@@ -52,7 +52,12 @@ const config = {
         pages: {
           path: 'src/pages',
           include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
-          mdxPageComponent: '@theme/MDXPage',
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
         },
         docs: {
           sidebarPath: './sidebars.js',
