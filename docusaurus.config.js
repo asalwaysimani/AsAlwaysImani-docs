@@ -23,7 +23,7 @@ const config = {
   organizationName: 'As Always Imani', // Usually your GitHub org/user name.
   projectName: 'As Always Imani Docs', // Usually your repo name.
 
-  onBrokenLinks: 'log',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -49,6 +49,11 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        pages: {
+          path: 'src/pages',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          mdxPageComponent: '@theme/MDXPage',
+        },
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
@@ -102,12 +107,11 @@ const config = {
         style: 'dark',
         links: [
           {
-              
-            title: 'Docs',
+            title: 'As Always Imani',
             items: [
               {
                 label: 'Project Index',
-                to: '/docs/00_index',
+                to: 'docs/index',
               },
             ],
           },
@@ -116,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'Contact',
-                href: '/docs/99_contact',
+                to: 'docs/contact',
               },
               {
                 label: 'CoHost',
@@ -180,9 +184,9 @@ const config = {
       [
         '@docusaurus/plugin-content-blog',
         {
-          id: 'second-blog',
-          routeBasePath: '/',
-          path: '/blog-second',
+          id: 'she-be-spittin',
+          routeBasePath: 'blog-second',
+          path: 'blog-second',
         }
       ],
     ],
