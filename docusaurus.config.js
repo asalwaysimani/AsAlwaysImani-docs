@@ -94,7 +94,8 @@ const config = {
             position: 'left',
             label: 'About As Always Imani',
           },
-          {to: '/blog', label: 'Notes From Around Here', position: 'left'}
+          {to: '/blog', label: 'Notes From Around Here', position: 'left'},
+          {to: '/blog-second', label: 'She Be Spittin Though', position: 'left'},
         ],
       },
       footer: {
@@ -106,7 +107,7 @@ const config = {
             items: [
               {
                 label: 'Project Index',
-                to: './docs/00_index.mdx',
+                to: '/docs/00_index',
               },
             ],
           },
@@ -115,7 +116,7 @@ const config = {
             items: [
               {
                 label: 'Contact',
-                href: './docs/99_contact',
+                href: '/docs/99_contact',
               },
               {
                 label: 'CoHost',
@@ -171,11 +172,19 @@ const config = {
       [
         '@docusaurus/plugin-content-blog',
         {
-          id: 'second-blog',
-          routeBasePath: 'she-be-spittin-though',
-          path: '/blog-she-be-spittin-though'
+          id: 'blog',
+          routeBasePath: '/',
+          path: '/blog',
         }
-      ]
+      ],
+      [
+        '@docusaurus/plugin-content-blog',
+        {
+          id: 'second-blog',
+          routeBasePath: '/',
+          path: '/blog-second',
+        }
+      ],
     ],
   
 };
