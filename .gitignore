@@ -3,7 +3,7 @@ AsAlwaysImani.code-workspace
 # redundant folders
 
 /static/img/_old
-blog/
+testing.mdx
 
 .vscode/*
 !.vscode/settings.json

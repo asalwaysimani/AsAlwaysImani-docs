@@ -1,19 +1,19 @@
 import React from "react";
 import Layout from "@theme/Layout";
+import Image from '@theme/IdealImage';
 
 export default function Hello() {
 	return (
-		<Layout title="Hello" description="Test React Page">
+		<Layout title="Hello" description="Margaret Catter Development">
 			<div
 				style={{
 					display: "flex",
 					justifyContent: "center",
 					alignItems: "center",
-					height: "50vh",
-					fontSize: "20px",
 				}}
 			>
-				<p>This is an Test Page using react pages.</p>
+				<Image img={require('/assets/headers/MargaretCatterDev_docusaurus.png')} alt="Niche games"/>
+				
 			</div>
 		</Layout>
 	);

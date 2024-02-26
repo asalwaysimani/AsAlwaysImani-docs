@@ -46,7 +46,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -56,7 +56,9 @@ const config = {
           // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
         blog: {
-          showReadingTime: true,
+          blogTitle: "Note's From Around Here",
+          blogDescription: "Quarterly and Yearly Updates about the state of As Always Imani",
+          showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
@@ -68,9 +70,15 @@ const config = {
     ],
   ],
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+      {
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -86,23 +94,19 @@ const config = {
             position: 'left',
             label: 'About As Always Imani',
           },
-          {to: '/blog', label: 'on CoHost', position: 'left'},
-          // {
-          //   href: 'https://cohost.org/asalwaysimani/',
-          //   label: 'cohost',
-          //   position: 'right',
-          // },
+          {to: '/blog', label: 'Notes From Around Here', position: 'left'}
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
+              
             title: 'Docs',
             items: [
               {
                 label: 'Project Index',
-                to: '/docs/00_index.mdx',
+                to: './docs/00_index.mdx',
               },
             ],
           },
@@ -111,7 +115,11 @@ const config = {
             items: [
               {
                 label: 'Contact',
-                href: '/docs/99_contact',
+                href: './docs/99_contact',
+              },
+              {
+                label: 'CoHost',
+                href: 'https://cohost.org/asalwaysimani',
               },
               {
                 label: 'Twitch',
@@ -131,7 +139,7 @@ const config = {
                 href: 'https://margaretcatter.dev/',
               },
               {
-                label: 'Itch.io',
+                label: 'itch.io',
                 href: 'https://margaretcatter.itch.io/',
               },
               {
@@ -147,7 +155,8 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
+    })
+    ,
     plugins: [
       [
         '@docusaurus/plugin-ideal-image',
@@ -159,7 +168,16 @@ const config = {
           disableInDev: false,
         },
       ],
+      [
+        '@docusaurus/plugin-content-blog',
+        {
+          id: 'second-blog',
+          routeBasePath: 'she-be-spittin-though',
+          path: '/blog-she-be-spittin-though'
+        }
+      ]
     ],
+  
 };
 
 export default config;

@@ -3,6 +3,38 @@ title: Changelog
 author: Imani
 ---
 
+## [Version 12] - 2024-02-25
+
+### Changes
+
+- Mermaid theme
+- remark-mermaidjs plugin
+
+### Notes
+
+#FFFFFF - Text - MCD
+#7A4E8D - Background color - MCD // #553663 Accessibility
+#95CED0 - Primary color - MCD // #173435 Accessibility
+  #173435 - Darker primary color
+
+#A175B3 - Secondary color - MCD // #53355F Accessibility
+#FFE0E9 - Accent color - MCD
+
+#69bdd3 - Darker secondary color
+#ff4d7f
+#ff6691
+#724884
+
+#3183a2 - AAI // #1A4656 Accessibility
+#765082 - AAI
+#9497e1 - AAI // #9697ca
+
+#ff9ba2 - Ionie
+#eb808a - Ionie - Light mode
+#ffe5e3 - Ionie
+
+
+
 ## [Version 11] - 2024-02-24
 
 ### Additions
