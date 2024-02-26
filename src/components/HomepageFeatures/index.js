@@ -14,7 +14,7 @@ const FeatureList = [
     // },
   {
     title: 'Margaret Catter Development',
-    Svg: require('@site/static/img/MargaretCatterDev_docusaurus.svg').default,
+    Svg: require('@site/static/img/MargaretCatterDev_homepage@1.5x.svg').default,
     description: (
       <>
         A highly adaptable collaborative storyteller focused on niche stories & creating full and engaging worlds. With a friendly & personable attitude that excels at solo and team projects.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Ionie Annette',
-    Svg: require('@site/static/img/IonieAnnette_docusaurus.svg').default,
+    Svg: require('@site/static/img/IonieAnnette_homepage@1.5x.svg').default,
     description: (
       <>
         The creative pseudonym for original prose works in various narrative formats.
@@ -32,7 +32,7 @@ const FeatureList = [
   },
   {
     title: 'She Be Spittin Thou',
-    Svg: require('@site/static/img/SheBeSpittinThough_docusaurus.svg').default,
+    Svg: require('@site/static/img/SheBeSpittinThough_homepage@1.5x.svg').default,
     description: (
       <>
         Things that need to be said and we're bringing back personal blogs baby to say them.
