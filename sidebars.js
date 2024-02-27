@@ -16,7 +16,6 @@ const sidebars = {
   mcdSidebar:{
     'Margaret Catter Dev': [
       'Margaret Catter Development/index-mcd',
-      'Margaret Catter Development/sources',
       {
         type:'category',
         label:'Neo Cities Chronicles',
