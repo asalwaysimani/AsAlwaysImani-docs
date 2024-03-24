@@ -106,6 +106,7 @@ const config = {
           },
           {to: '/blog', label: 'Notes From Around Here', position: 'left'},
           {to: '/blog-second', label: 'She Be Spittin Though', position: 'left'},
+          {href: 'https://margaretcatter.dev', label: 'Margaret Catter Development', position: 'left'},
         ],
       },
       footer: {

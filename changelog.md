@@ -2,13 +2,23 @@
 title: Changelog
 author: Imani
 ---
+## [Version 13] - 2024-03-24
+
+### Added
+
+- New blog post for Notes From Around Here
+- Link to Margaret Catter Development website in site header
+
+### Changes
+
+- Updated 01_intro - About As Always Imani
 
 ## [Version 12] - 2024-02-25
 
 ### Changes
 
 - Mermaid theme
-- remark-mermaidjs plugin
+- remark-mermaid.js plugin
 
 ### Notes
 
