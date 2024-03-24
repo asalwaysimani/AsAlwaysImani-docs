@@ -33,8 +33,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`As Always Imani ${siteConfig.title}`}
-      description="The personal website for the personal brand As Always Imani">
+      title={`${siteConfig.title}`}
+      description="The website for the personal brand, As Always Imani">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
