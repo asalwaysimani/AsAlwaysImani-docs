@@ -20,46 +20,46 @@ const sidebars = {
         type:'category',
         label:'Neo Cities Chronicles',
         items: [
-          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsAndMecha',
-          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/NeoCitiesTTRPG',
-          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsMechaRising',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/MagicalGirlsAndMecha',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/NeoCitiesTTRPG',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/MagicalGirlsMechaRising',
         ]
       },
       {
         type:'category',
         label:"High Metropoly's",
         items: [
-        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/HighMetropolys',
-        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/AscentofCrystalTower',
-        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/The Empire of Unsheathed Knives',
-        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/ThoseBroken_BelovedThing',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/HighMetropolys',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/AscentofCrystalTower',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/The Empire of Unsheathed Knives',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/ThoseBroken_BelovedThing',
       ]
       },
       {
         type:'category',
         label:'Visual Novels',
         items: [
-          'margaretCatterDevelopment/Visual-Novels/HurricaneLikeMe',
-          'margaretCatterDevelopment/Visual-Novels/AllTheFacesofDanteHall',
-          'margaretCatterDevelopment/Visual-Novels/LookMa_WeMadeIt',
-          'margaretCatterDevelopment/Visual-Novels/MagicalSpaceAdventures',
+          'margaretCatterDevelopment/visualNovels/HurricaneLikeMe',
+          'margaretCatterDevelopment/visualNovels/AllTheFacesofDanteHall',
+          'margaretCatterDevelopment/visualNovels/LookMa_WeMadeIt',
+          'margaretCatterDevelopment/visualNovels/MagicalSpaceAdventures',
         ]
       },
-      'Margaret Catter Development/Tabletop-Roleplaying-Games/CheckYesRomeo',
-      'Margaret Catter Development/Tabletop-Roleplaying-Games/HotOffThePress',
-      'Margaret Catter Development/Tabletop-Roleplaying-Games/MicroGames/index',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/CheckYesRomeo',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/HotOffThePress',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/MicroGames/index',
   ],
   },
   iaSidebar:{
     'Ionie Annette': [
-      'Ionie Annette/PitchesPlease',
+      'ionieAnnette/PitchesPlease',
       {
         type: 'category',
         label: 'The Galaxy Is Limitless', 
         items: [
-          'ionieAnnette/theGalaxyIsLimitless/TheGalaxyIsLimitless',
-          'ionieAnnette/theGalaxyIsLimitless/AKingForMyKingdom',
-          'ionieAnnette/theGalaxyIsLimitless/ThisOldBlackMagic',
+          'ionieAnnette/theGalaxyIsLimitless/theGalaxyIsLimitless',
+          'ionieAnnette/theGalaxyIsLimitless/aKingForMyKingdom',
+          'ionieAnnette/theGalaxyIsLimitless/thisOldBlackMagic',
         ]
       },
       'ionieAnnette/ChasingTheBeginningofHappyness',
