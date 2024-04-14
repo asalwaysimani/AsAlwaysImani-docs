@@ -15,34 +15,34 @@ Create as many sidebars as you want.
 const sidebars = {
   mcdSidebar:{
     'Margaret Catter Dev': [
-      'Margaret Catter Development/index-mcd',
+      'margaretCatterDevelopment/index-mcd',
       {
         type:'category',
         label:'Neo Cities Chronicles',
         items: [
-          'Margaret Catter Development/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsAndMecha',
-          'Margaret Catter Development/Tabletop-Roleplaying-Games/NeoCitiesChronicles/NeoCitiesTTRPG',
-          'Margaret Catter Development/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsMechaRising',
+          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsAndMecha',
+          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/NeoCitiesTTRPG',
+          'margaretCatterDevelopment/Tabletop-Roleplaying-Games/NeoCitiesChronicles/MagicalGirlsMechaRising',
         ]
       },
       {
         type:'category',
         label:"High Metropoly's",
         items: [
-        'Margaret Catter Development/Tabletop-Roleplaying-Games/HighMetropolys/HighMetropolys',
-        'Margaret Catter Development/Tabletop-Roleplaying-Games/HighMetropolys/AscentofCrystalTower',
-        'Margaret Catter Development/Tabletop-Roleplaying-Games/HighMetropolys/The Empire of Unsheathed Knives',
-        'Margaret Catter Development/Tabletop-Roleplaying-Games/HighMetropolys/ThoseBroken_BelovedThing',
+        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/HighMetropolys',
+        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/AscentofCrystalTower',
+        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/The Empire of Unsheathed Knives',
+        'margaretCatterDevelopment/Tabletop-Roleplaying-Games/HighMetropolys/ThoseBroken_BelovedThing',
       ]
       },
       {
         type:'category',
         label:'Visual Novels',
         items: [
-          'Margaret Catter Development/Visual-Novels/HurricaneLikeMe',
-          'Margaret Catter Development/Visual-Novels/AllTheFacesofDanteHall',
-          'Margaret Catter Development/Visual-Novels/LookMa_WeMadeIt',
-          'Margaret Catter Development/Visual-Novels/MagicalSpaceAdventures',
+          'margaretCatterDevelopment/Visual-Novels/HurricaneLikeMe',
+          'margaretCatterDevelopment/Visual-Novels/AllTheFacesofDanteHall',
+          'margaretCatterDevelopment/Visual-Novels/LookMa_WeMadeIt',
+          'margaretCatterDevelopment/Visual-Novels/MagicalSpaceAdventures',
         ]
       },
       'Margaret Catter Development/Tabletop-Roleplaying-Games/CheckYesRomeo',
@@ -57,16 +57,16 @@ const sidebars = {
         type: 'category',
         label: 'The Galaxy Is Limitless', 
         items: [
-          'Ionie Annette/The-Galaxy-is-Limitless/TheGalaxyIsLimitless',
-          'Ionie Annette/The-Galaxy-is-Limitless/AKingForMyKingdom',
-          'Ionie Annette/The-Galaxy-is-Limitless/ThisOldBlackMagic',
+          'ionieAnnette/theGalaxyIsLimitless/TheGalaxyIsLimitless',
+          'ionieAnnette/theGalaxyIsLimitless/AKingForMyKingdom',
+          'ionieAnnette/theGalaxyIsLimitless/ThisOldBlackMagic',
         ]
       },
-      'Ionie Annette/ChasingTheBeginningofHappyness',
-      'Ionie Annette/TheseKidsWillWearCrowns',
-      'Ionie Annette/BurnOutTheSun',
-      'Ionie Annette/EightKingdoms',
-      'Ionie Annette/ProjectMiaHamm',
+      'ionieAnnette/ChasingTheBeginningofHappyness',
+      'ionieAnnette/TheseKidsWillWearCrowns',
+      'ionieAnnette/BurnOutTheSun',
+      'ionieAnnette/EightKingdoms',
+      'ionieAnnette/ProjectMiaHamm',
     ]
   },
   commmonSidebar: [
