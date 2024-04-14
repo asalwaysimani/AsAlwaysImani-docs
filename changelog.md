@@ -2,6 +2,21 @@
 title: Changelog
 author: Imani
 ---
+## [Version 14] - 2024-04-14
+
+### Added
+
+- New As Always Imani logos commissioned from mintyshi
+
+### Changes
+
+- Update About As Always Imani page
+- Changed all the images in assets/logos file names to be camelCase
+- Renamed 10_Margaret Catter Development to be camelCase
+- Renamed 20_Ionie Annette to be camelCase
+- Renamed documents in The-Galaxy-is-Limitless to be camelCase
+  - Added story summary to 00_theGalaxyIsLimitless.mdx
+
 ## [Version 13] - 2024-03-24
 
 ### Added
