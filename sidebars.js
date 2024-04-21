@@ -39,15 +39,15 @@ const sidebars = {
         type:'category',
         label:'Visual Novels',
         items: [
-          'margaretCatterDevelopment/visualNovels/HurricaneLikeMe',
-          'margaretCatterDevelopment/visualNovels/AllTheFacesofDanteHall',
-          'margaretCatterDevelopment/visualNovels/LookMa_WeMadeIt',
-          'margaretCatterDevelopment/visualNovels/MagicalSpaceAdventures',
+          'margaretCatterDevelopment/visualNovels/hurricaneLikeMe',
+          'margaretCatterDevelopment/visualNovels/allTheFacesOfDanteHall',
+          'margaretCatterDevelopment/visualNovels/lookMaWeMadeIt',
+          'margaretCatterDevelopment/visualNovels/magicalSpaceAdventures',
         ]
       },
-      'margaretCatterDevelopment/tabletopRoleplayingGames/CheckYesRomeo',
-      'margaretCatterDevelopment/tabletopRoleplayingGames/HotOffThePress',
-      'margaretCatterDevelopment/tabletopRoleplayingGames/MicroGames/index',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/checkYesRomeo',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/hotOffThePress',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/microGames/index',
   ],
   },
   iaSidebar:{
