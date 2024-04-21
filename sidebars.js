@@ -20,19 +20,19 @@ const sidebars = {
         type:'category',
         label:'Neo Cities Chronicles',
         items: [
-          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/MagicalGirlsAndMecha',
-          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/NeoCitiesTTRPG',
-          'margaretCatterDevelopment/tabletopRoleplayingGames/NeoCitiesChronicles/MagicalGirlsMechaRising',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/magicalGirlsAndMecha',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/neoCitiesTTRPG',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/magicalGirlsMechaRising',
         ]
       },
       {
         type:'category',
         label:"High Metropoly's",
         items: [
-        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/HighMetropolys',
-        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/AscentofCrystalTower',
-        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/The Empire of Unsheathed Knives',
-        'margaretCatterDevelopment/tabletopRoleplayingGames/HighMetropolys/ThoseBroken_BelovedThing',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/highMetropolys/highMetropolys',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/highMetropolys/ascentOfCrystalTower',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/highMetropolys/theEmpireOfUnsheathedKnives',
+        'margaretCatterDevelopment/tabletopRoleplayingGames/highMetropolys/thoseBrokenBelovedThing',
       ]
       },
       {

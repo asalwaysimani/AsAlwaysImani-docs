@@ -2,6 +2,16 @@
 title: Changelog
 author: Imani
 ---
+## [Version 15] - 2024-04-21
+
+### Changes
+
+- Created links between High Metropoly and Neo Cities Chronicles to the Margaret Catter Development index page.
+- Updated High Metropoly about page to include information about the genre and game summary.
+- Updated Ascent of Crystal Tower about page to include the new game summary.
+- Updated Those Broken and Beloved Things about page to include the new game summary.
+- Updated The Empire of Unsheathed Knives about page to include the new game summary and genre information.
+
 ## [Version 14] - 2024-04-14
 
 ### Added
