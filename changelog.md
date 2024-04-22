@@ -11,6 +11,7 @@ author: Imani
 - Updated Ascent of Crystal Tower about page to include the new game summary.
 - Updated Those Broken and Beloved Things about page to include the new game summary.
 - Updated The Empire of Unsheathed Knives about page to include the new game summary and genre information.
+- Included links in the Micro TTRPG index page to the itch.io versions of games for purchase.
 
 ## [Version 14] - 2024-04-14
 
