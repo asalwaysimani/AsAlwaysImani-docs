@@ -21,7 +21,7 @@ const sidebars = {
         label:'Neo Cities Chronicles',
         items: [
           'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/magicalGirlsAndMecha',
-          'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/neoCitiesTTRPG',
+          'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/neoCitiesChroniclesTRPG',
           'margaretCatterDevelopment/tabletopRoleplayingGames/neoCitiesChronicles/magicalGirlsMechaRising',
         ]
       },
@@ -45,8 +45,8 @@ const sidebars = {
           'margaretCatterDevelopment/visualNovels/magicalSpaceAdventures',
         ]
       },
-      'margaretCatterDevelopment/tabletopRoleplayingGames/checkYesRomeo',
-      'margaretCatterDevelopment/tabletopRoleplayingGames/hotOffThePress',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/standAloneGames/checkYesRomeo',
+      'margaretCatterDevelopment/tabletopRoleplayingGames/standAloneGames/hotOffThePress',
       'margaretCatterDevelopment/tabletopRoleplayingGames/microGames/index',
   ],
   },
