@@ -32,6 +32,12 @@ keywords: readme
 Imani can be found doing all the things all over the internet, such as game development & design projects, multidisciplinary creative writing works, live lets plays of solo tabletop board games, and then some.
 They are in a long-term emotional relationship with Pop Punk.
 
+## Acknowledgments
+
+- Shout out to Steph who has been a continual supporter of mine via Ko-fi!
+
+## Around The Web
+
 Website: [As Always Imani](https://www.asalwaysimani.com)  
 Twitch: [Catch me live on twitch at As Always Imani](https://www.twitch.tv/asalwaysimani)  
 CoHost: [As Always Imani on CoHost](https://cohost.org/asalwaysimani)  
