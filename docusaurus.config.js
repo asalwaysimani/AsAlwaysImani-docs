@@ -65,14 +65,14 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
         },
-        blog: {
-          blogTitle: "Note's From Around Here",
-          blogDescription: "Quarterly and Yearly Updates about the state of As Always Imani",
-          showReadingTime: false,
+        // blog: {
+          // blogTitle: "Note's From Around Here",
+          // blogDescription: "Quarterly and Yearly Updates about the state of As Always Imani",
+          // showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: "https://github.com/asalwaysimani/AsAlwaysImani-docs",
-        },
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -104,8 +104,8 @@ const config = {
             position: 'left',
             label: 'About As Always Imani',
           },
-          {to: '/blog', label: 'Notes From Around Here', position: 'left'},
-          {to: '/blog-second', label: 'She Be Spittin Though', position: 'left'},
+          // {to: '/blog', label: 'Notes From Around Here', position: 'left'},
+          // {to: '/blog-second', label: 'She Be Spittin Though', position: 'left'},
           {href: 'https://margaretcatter.dev', label: 'Margaret Catter Development', position: 'left'},
         ],
       },
@@ -178,22 +178,22 @@ const config = {
           steps: 10,
         },
       ],
-      [
-        '@docusaurus/plugin-content-blog',
-        {
-          id: 'blog',
-          routeBasePath: '/',
-          path: '/blog',
-        }
-      ],
-      [
-        '@docusaurus/plugin-content-blog',
-        {
-          id: 'she-be-spittin',
-          routeBasePath: 'blog-second',
-          path: 'blog-second',
-        }
-      ],
+      // [
+      //   '@docusaurus/plugin-content-blog',
+      //   {
+      //     id: 'blog',
+      //     routeBasePath: '/',
+      //     path: '/blog',
+      //   }
+      // ],
+      // [
+      //   '@docusaurus/plugin-content-blog',
+      //   {
+      //     id: 'she-be-spittin',
+      //     routeBasePath: 'blog-second',
+      //     path: 'blog-second',
+      //   }
+      // ],
     ],
   
 };
