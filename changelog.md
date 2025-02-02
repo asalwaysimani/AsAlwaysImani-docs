@@ -12,6 +12,9 @@ author: Imani
 
 - Reimplemented the main blog of the site.
 - Removed CoHost from contact page as its now defunct.
+- Removed the second blog
+- Standardized the sidebar naming convention to be Capital Case instead of camelCase so Margaret Catter Development and Ionie Annette displays correctly in the site sidebar.
+- Added links to outside websites on the index/projects list page of the site
 
 ## [Version 15] - 2024-04-21
 
