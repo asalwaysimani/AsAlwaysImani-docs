@@ -2,6 +2,16 @@
 title: Changelog
 author: Imani
 ---
+## [Version 16] - 2025-02-02
+
+### Added
+
+- Created the recommendations page to link to other cool people on the internet.
+
+### Changes
+
+- Reimplemented the main blog of the site.
+
 ## [Version 15] - 2024-04-21
 
 ### Changes
