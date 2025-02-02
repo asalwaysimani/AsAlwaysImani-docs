@@ -104,8 +104,7 @@ const config = {
               position: 'left',
               label: 'About As Always Imani',
             },
-            {to: '/blog', label: 'Notes From Around Here', position: 'left'},
-            // {to: '/blog-second', label: 'She Be Spittin Though', position: 'left'},
+            {to: '/blog', label: 'She Be Spittin Thou', position: 'left'},
             { href: 'https://margaretcatter.dev', label: 'Margaret Catter Development', position: 'left' },
           ],
         },
@@ -185,7 +184,7 @@ const config = {
     // [
     //   '@docusaurus/plugin-content-blog',
     //   {
-    //     id: 'she-be-spittin',
+    //     id: 'notes-from-around-here',
     //     routeBasePath: 'blog-second',
     //     path: 'blog-second',
     //   }
