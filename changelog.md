@@ -11,6 +11,7 @@ author: Imani
 ### Changes
 
 - Reimplemented the main blog of the site.
+- Removed CoHost from contact page as its now defunct.
 
 ## [Version 15] - 2024-04-21
 
