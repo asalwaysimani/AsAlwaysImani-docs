@@ -52,21 +52,21 @@ const sidebars = {
   },
   iaSidebar: {
     'Ionie Annette': [
-      'Ionie_Annette/PitchesPlease',
+      'Ionie Annette/PitchesPlease',
       {
         type: 'category',
         label: 'The Galaxy Is Limitless',
         items: [
-          'Ionie_Annette/theGalaxyIsLimitless/theGalaxyIsLimitless',
-          'Ionie_Annette/theGalaxyIsLimitless/aKingForMyKingdom',
-          'Ionie_Annette/theGalaxyIsLimitless/thisOldBlackMagic',
+          'Ionie Annette/theGalaxyIsLimitless/theGalaxyIsLimitless',
+          'Ionie Annette/theGalaxyIsLimitless/aKingForMyKingdom',
+          'Ionie Annette/theGalaxyIsLimitless/thisOldBlackMagic',
         ]
       },
-      'Ionie_Annette/ChasingTheBeginningofHappyness',
-      'Ionie_Annette/TheseKidsWillWearCrowns',
-      'Ionie_Annette/BurnOutTheSun',
-      'Ionie_Annette/EightKingdoms',
-      'Ionie_Annette/ProjectMiaHamm',
+      'Ionie Annette/ChasingTheBeginningofHappyness',
+      'Ionie Annette/TheseKidsWillWearCrowns',
+      'Ionie Annette/BurnOutTheSun',
+      'Ionie Annette/EightKingdoms',
+      'Ionie Annette/ProjectMiaHamm',
     ]
   },
   commonSidebar: [
