@@ -2,6 +2,12 @@
 title: Changelog
 author: Imani
 ---
+## [Version 17] - 2025-04-22
+
+### Changes
+
+- Fixed the spacing issues on Pitch Please
+
 ## [Version 16] - 2025-02-02
 
 ### Added
